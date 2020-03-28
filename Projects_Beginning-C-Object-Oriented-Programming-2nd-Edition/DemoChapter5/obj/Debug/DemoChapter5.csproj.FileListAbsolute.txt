@@ -1,0 +1,10 @@
+C:\Users\744184\Documents\Visual Studio 2019\Projects\DemoChapter5\bin\Debug\DemoChapter5.exe.config
+C:\Users\744184\Documents\Visual Studio 2019\Projects\DemoChapter5\bin\Debug\DemoChapter5.exe
+C:\Users\744184\Documents\Visual Studio 2019\Projects\DemoChapter5\bin\Debug\DemoChapter5.pdb
+C:\Users\744184\Documents\Visual Studio 2019\Projects\DemoChapter5\obj\Debug\DemoChapter5.csprojAssemblyReference.cache
+C:\Users\744184\Documents\Visual Studio 2019\Projects\DemoChapter5\obj\Debug\DemoChapter5.Properties.Resources.resources
+C:\Users\744184\Documents\Visual Studio 2019\Projects\DemoChapter5\obj\Debug\DemoChapter5.csproj.GenerateResource.cache
+C:\Users\744184\Documents\Visual Studio 2019\Projects\DemoChapter5\obj\Debug\DemoChapter5.csproj.CoreCompileInputs.cache
+C:\Users\744184\Documents\Visual Studio 2019\Projects\DemoChapter5\obj\Debug\DemoChapter5.exe
+C:\Users\744184\Documents\Visual Studio 2019\Projects\DemoChapter5\obj\Debug\DemoChapter5.pdb
+C:\Users\744184\Documents\Visual Studio 2019\Projects\DemoChapter5\obj\Debug\DemoChapter5.Form1.resources
