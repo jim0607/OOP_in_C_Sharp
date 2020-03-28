@@ -1,0 +1,12 @@
+
+
+2. Dictionary:
+ - 新建一个Dictionary, key是int, value是一个DLLNode: Dictionary<int, DLLNode> dict = new Dictionary<int, DLLNode>();
+ - check if key is in a dicitonary: dict.ContainsKey(key)
+ - size of dictionary: dict.Count() (相当于len(dict))
+ - remove a (key, value) pair in dictionary: dict.Remove(key);
+ 
+ 
+ 3. Queue:
+ - 新建一个Queue: Queue <int> q = new Queue <int> ();
+ - q.Equeue(val) (相当于q.append(val));  q.Dequeu() (相当于q.pop());   q.Count() (相当于len(q))
